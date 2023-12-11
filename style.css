@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.name{
+    margin-top:100%;
+}
+.bond{
+    font-size:35px;
+    letter-spacing: 3px;
+}
+.space{
+    letter-spacing: 1px;
+}
